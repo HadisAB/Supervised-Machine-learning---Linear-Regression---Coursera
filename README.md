@@ -16,3 +16,10 @@ For these cities, you have the city population.
 
 > [numpy](https://numpy.org/)<br/>
 > [matplotlib.pyplot](https://matplotlib.org/) 
+
+
+## Result
+The blue line has been fitted into the stats by using Linear Regression method in this project.<br/>
+You can find the scripts [here](https://github.com/HadisAB/Supervised-Machine-learning---Linear-Regression---Coursera/blob/main/Codes/LinearRegression_RestaurantProfits.py).
+
+<img src=https://github.com/HadisAB/Supervised-Machine-learning---Linear-Regression---Coursera/blob/main/Codes/Predicted_model.jpg />
