@@ -1,5 +1,5 @@
 # Supervised-Machine-learning : Linear-Regression
-In this short project we are going to apply Linear Regression model with full mathematical operations without useing scikit learn.
+In this short project we are going to apply Linear Regression model with full mathematical operations without using scikit learn.
 
 ## Project details
 Suppose you are the CEO of a restaurant franchise and are considering different cities for opening a new outlet.<br/>
